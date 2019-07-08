@@ -1,2 +1,3 @@
 # hello-world
-This is a first test
+This is my first repository
+This is my first test
